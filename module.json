@@ -1,0 +1,154 @@
+{
+  "id": "taltagor-foundry-integration",
+  "title": "Taltagor Foundry Integration",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Will Crewe",
+      "flags": {}
+    }
+  ],
+    "packFolders": [
+    {
+      "name": "Taltagor Content",
+      "sorting": "m",
+      "color": "#cd2c1e",
+      "folders": [
+        {
+          "name": "Character Features",
+          "sorting": "m",
+          "color": "#b72c1f",
+          "packs": [
+            "classes",
+            "subclasses",
+            "class-features",
+            "backgrounds",
+            "races",
+            "race-advancements"
+          ]
+        },
+        {
+          "name": "Items & Spells",
+          "sorting": "m",
+          "color": "#941919",
+          "packs": [
+            "items",
+            "spells",
+            "tradegoods"
+          ]
+        },
+        {
+          "name": "Monsters",
+          "sorting": "m",
+          "color": "#7d160c",
+          "packs": [
+            "monsters",
+            "monsterfeatures"
+          ]
+        }
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["class"]
+		  }
+	  }
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["subclass"]
+		  }
+	  }
+    },
+    {
+      "name": "class-features",
+      "label": "Class Features",
+      "path": "packs/class-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["feat", "weapon"]
+		  }
+	  }
+    },
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["background","feat"]
+		  }
+	  }
+    },
+    {
+      "name": "races",
+      "label": "Races",
+      "path": "packs/races",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["race", "feat", "weapon"]
+		  }
+	  }
+    },
+    {
+      "name": "race-advancements",
+      "label": "Race Advancements",
+      "path": "packs/race-advancements",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+	  "flags": {
+		  "dnd5e": {
+			  "types": ["feat", "weapon"]
+		  }
+	  }
+    }
+  ]
+}
