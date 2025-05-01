@@ -1,7 +1,4 @@
-console.log("Hello World! This code runs immediately when the file is loaded.");
-
 Hooks.on("init", function() {
-	console.log("This code runs once the Foundry VTT software begins its initialization workflow.");
 
 	//Remove unwanted languages from the game.
 	delete CONFIG.DND5E.languages.standard.children.dwarvish;
@@ -18,8 +15,8 @@ Hooks.on("init", function() {
 });
 
 Hooks.on("ready", function() {
-  console.log("This code runs once core initialization is ready and game data is available.");
-  
+	
+	//This must be run after the Initilisation stage as nested language structures are formed later.
 	delete CONFIG.DND5E.languages.exotic.children.primordial
   
     //Add new languages into the game.
