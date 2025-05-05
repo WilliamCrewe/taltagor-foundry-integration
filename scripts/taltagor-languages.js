@@ -51,6 +51,9 @@ Hooks.on("ready", function() {
 	CONFIG.DND5E.languages.exotic.children.grave_speech = {
         label: "Grave Speech"
     };
+	CONFIG.DND5E.languages.exotic.children.grung = {
+        label: "Grung"
+    };
 	CONFIG.DND5E.languages.exotic.children.mechanus = {
         label: "Mechanus"
     };
