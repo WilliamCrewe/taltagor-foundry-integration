@@ -106,7 +106,7 @@
     },
     {
       "name": "class-features",
-      "label": "Class Features",
+      "label": "Class & Subclass Features",
       "path": "packs/class-features",
       "type": "Item",
       "system": "dnd5e",
@@ -197,22 +197,22 @@
       "label": "Rules",
       "path": "packs/rules",
       "type": "JournalEntry",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "tables",
       "label": "Tables",
       "path": "packs/tables",
       "type": "RollTable",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "scripts": [
