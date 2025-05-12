@@ -163,25 +163,6 @@
       }
     },
     {
-      "name": "race-advancements",
-      "label": "Race Advancements",
-      "path": "packs/race-advancements",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {
-        "dnd5e": {
-          "types": [
-            "feat",
-            "weapon"
-          ]
-        }
-      }
-    },
-    {
       "name": "spells",
       "label": "Spells",
       "path": "packs/spells",
@@ -213,10 +194,26 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "scripts": [
-    "scripts/taltagor-languages.js"
+    "scripts/taltagor-languages.js",
+	"scripts/luck-ability.js",
+	"scripts/taltagor-weapons.js",
+	"scripts/taltagor-rests.js",
+	"scripts/taltagor-unarmoured-ac.js",
+	"scripts/taltagor-currency.js"
   ],
   "relationships": {
     "systems": [
@@ -226,5 +223,12 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "languages": [
+	{
+		"lang": "en",
+		"name": "English",
+		"path": "languages/en.json"
+	}
+  ]
 }
