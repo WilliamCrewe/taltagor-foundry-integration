@@ -52,6 +52,16 @@
             "monsterfeatures"
           ],
           "folders": []
+        },
+        {
+          "name": "Rules and Resources",
+          "sorting": "m",
+          "color": "#7d160c",
+          "packs": [
+            "rules",
+            "tables"
+          ],
+          "folders": []
         }
       ],
       "packs": []
@@ -96,7 +106,7 @@
     },
     {
       "name": "class-features",
-      "label": "Class Features",
+      "label": "Class & Subclass Features",
       "path": "packs/class-features",
       "type": "Item",
       "system": "dnd5e",
@@ -153,27 +163,60 @@
       }
     },
     {
-      "name": "race-advancements",
-      "label": "Race Advancements",
-      "path": "packs/race-advancements",
+      "name": "spells",
+      "label": "Spells",
+      "path": "packs/spells",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {
-        "dnd5e": {
-          "types": [
-            "feat",
-            "weapon"
-          ]
-        }
       }
+    },
+    {
+      "name": "rules",
+      "label": "Rules",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Tables",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
+  "esmodules": [
+	
+  ],
   "scripts": [
-    "scripts/taltagor-languages.js"
+    "scripts/taltagor-languages.js",
+	"scripts/luck-ability.js",
+	"scripts/taltagor-weapons.js",
+	"scripts/taltagor-rests.js",
+	"scripts/taltagor-unarmoured-ac.js",
+	"scripts/taltagor-currency.js"
   ],
   "relationships": {
     "systems": [
@@ -183,5 +226,12 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "languages": [
+	{
+		"lang": "en",
+		"name": "English",
+		"path": "languages/en.json"
+	}
+  ]
 }

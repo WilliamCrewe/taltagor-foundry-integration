@@ -1,3 +1,5 @@
+console.log("Taltagor Languages script read.")
+
 Hooks.on("init", function() {
 
 	//Remove unwanted languages from the game.
@@ -7,7 +9,7 @@ Hooks.on("init", function() {
 	delete CONFIG.DND5E.languages.standard.children.goblin;
 	delete CONFIG.DND5E.languages.standard.children.orc;
 	delete CONFIG.DND5E.languages.exotic.children.aarakocra;
-	delete CONFIG.DND5E.languages.exotic.children.deep-speech;
+	delete CONFIG.DND5E.languages.exotic.children.deep;
 	delete CONFIG.DND5E.languages.exotic.children.gith;
 	delete CONFIG.DND5E.languages.exotic.children.gnoll;
 	delete CONFIG.DND5E.languages.exotic.children.undercommon;
@@ -48,8 +50,11 @@ Hooks.on("ready", function() {
 	CONFIG.DND5E.languages.exotic.children.gnomish = {
         label: "Gnomish"
     };
-	CONFIG.DND5E.languages.exotic.children.grave_speech = {
+	CONFIG.DND5E.languages.exotic.children.grave = {
         label: "Grave Speech"
+    };
+	CONFIG.DND5E.languages.exotic.children.grung = {
+        label: "Grung"
     };
 	CONFIG.DND5E.languages.exotic.children.mechanus = {
         label: "Mechanus"
