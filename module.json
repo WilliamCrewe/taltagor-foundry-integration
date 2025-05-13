@@ -207,6 +207,9 @@
       "system": "dnd5e"
     }
   ],
+  "esmodules": [
+	
+  ],
   "scripts": [
     "scripts/taltagor-languages.js",
 	"scripts/luck-ability.js",
