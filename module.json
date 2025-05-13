@@ -1,10 +1,10 @@
 {
   "id": "taltagor-foundry-integration",
   "title": "Taltagor Foundry Integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13.341"
   },
   "authors": [
     {
@@ -200,23 +200,20 @@
       "label": "Items",
       "path": "packs/items",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
-  ],
-  "esmodules": [
-	
   ],
   "scripts": [
     "scripts/taltagor-languages.js",
-	"scripts/luck-ability.js",
-	"scripts/taltagor-weapons.js",
-	"scripts/taltagor-rests.js",
-	"scripts/taltagor-unarmoured-ac.js",
-	"scripts/taltagor-currency.js"
+    "scripts/luck-ability.js",
+    "scripts/taltagor-weapons.js",
+    "scripts/taltagor-rests.js",
+    "scripts/taltagor-unarmoured-ac.js",
+    "scripts/taltagor-currency.js"
   ],
   "relationships": {
     "systems": [
@@ -228,10 +225,11 @@
     ]
   },
   "languages": [
-	{
-		"lang": "en",
-		"name": "English",
-		"path": "languages/en.json"
-	}
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
   ]
 }
