@@ -10,6 +10,14 @@ Hooks.once("setup", () => {
 	//Adding WeaponTypeMap for Exotic weaponry
 	CONFIG.DND5E.weaponTypeMap.exoticM = "melee";
 	CONFIG.DND5E.weaponTypeMap.exoticR = "ranged";
+	
+	//Adding weaponProficiencies for Exotic weaponry
+	CONFIG.DND5E.weaponProficiencies.exo = "Exotic";
+	
+	//Adding weaponProficienciesMap for Exotic weaponry
+	CONFIG.DND5E.weaponProficienciesMap.exoticM = "exo";
+	CONFIG.DND5E.weaponProficienciesMap.exoticR = "exo";
+
   
 	// Adding new Weapon Properties
 	CONFIG.DND5E.itemProperties.bst = {
@@ -43,6 +51,7 @@ Hooks.once("setup", () => {
 	CONFIG.DND5E.consumableTypes.ammo.subtypes.jag = "Firearm, Jag";
 	CONFIG.DND5E.consumableTypes.ammo.subtypes.bolt = "Firearm, Bolt";
 	CONFIG.DND5E.consumableTypes.ammo.subtypes.impact = "Firearm, Impact";
+	CONFIG.DND5E.consumableTypes.ammo.subtypes.impact = "Firearm, Cluster";
 	
 	
 	// Removing unwanted Ammunition Types
@@ -57,8 +66,18 @@ Hooks.once("setup", () => {
 	CONFIG.DND5E.validProperties.weapon.delete("spc");
   
   
+	// Tying new weaponIDs to their corrosponding CompendiumID.
+	// Orcish Weapons
 	CONFIG.DND5E.weaponIds.thug = "Compendium.taltagor-foundry-integration.items.Item.SX4x98Lz91bJZuMP";
 	CONFIG.DND5E.weaponIds.shot = "Compendium.taltagor-foundry-integration.items.Item.RUWa56fAZHjs9KuA";
 	CONFIG.DND5E.weaponIds.slug = "Compendium.taltagor-foundry-integration.items.Item.7Aq1QxC3Q1KcN6J6";
+	
+	// Gnomish Weapons
+	CONFIG.DND5E.weaponIds.boltPistol = "Compendium.taltagor-foundry-integration.items.Item.XX5rbsbPQuPEEEA1";
+	CONFIG.DND5E.weaponIds.boltRifle = "Compendium.taltagor-foundry-integration.items.Item.Dns24Zj8tu2N3mYq";
+	CONFIG.DND5E.weaponIds.impactPistol = "Compendium.taltagor-foundry-integration.items.Item.Ps1AsAlL5AylOzfM";
+	CONFIG.DND5E.weaponIds.impactRifle = "Compendium.taltagor-foundry-integration.items.Item.aNiAiplMUckpvB8C";
+	CONFIG.DND5E.weaponIds.ringRifle = "Compendium.taltagor-foundry-integration.items.Item.MlkupAjgduVEJZja";
+	CONFIG.DND5E.weaponIds.scattershot = "Compendium.taltagor-foundry-integration.items.Item.nRZj3xSnIQkPJrct";
   
 });

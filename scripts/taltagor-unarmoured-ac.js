@@ -5,4 +5,9 @@ Hooks.once("init", () => {
     label: "Charged Scales",
     formula: "13 + @abilities.dex.mod"
   };
+  
+  CONFIG.DND5E.armorClasses.latent = {
+    label: "Latent Barrier",
+    formula: "12 + @abilities.dex.mod"
+  };
 });
