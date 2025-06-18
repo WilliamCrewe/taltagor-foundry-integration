@@ -1,5 +1,5 @@
-2025/06/18-14:59:19.199 73ec Recovering log #258
-2025/06/18-14:59:19.199 73ec Level-0 table #261: started
-2025/06/18-14:59:19.205 73ec Level-0 table #261: 75447 bytes OK
-2025/06/18-14:59:19.212 73ec Delete type=0 #258
-2025/06/18-14:59:19.212 73ec Delete type=3 #256
+2025/06/18-16:32:34.367 cb0 Recovering log #262
+2025/06/18-16:32:34.368 cb0 Level-0 table #264: started
+2025/06/18-16:32:34.378 cb0 Level-0 table #264: 213080 bytes OK
+2025/06/18-16:32:34.384 cb0 Delete type=0 #262
+2025/06/18-16:32:34.385 cb0 Delete type=3 #260
