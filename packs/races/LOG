@@ -1,3 +1,11 @@
-2025/08/06-09:24:07.850 cfbc Recovering log #305
-2025/08/06-09:24:07.858 cfbc Delete type=0 #305
-2025/08/06-09:24:07.858 cfbc Delete type=3 #303
+2025/08/06-15:43:41.026 5168 Recovering log #309
+2025/08/06-15:43:41.030 5168 Level-0 table #311: started
+2025/08/06-15:43:41.045 5168 Level-0 table #311: 901365 bytes OK
+2025/08/06-15:43:41.052 5168 Delete type=0 #309
+2025/08/06-15:43:41.053 5168 Delete type=3 #308
+2025/08/06-15:43:46.379 b37c Compacting 1@0 + 1@1 files
+2025/08/06-15:43:46.393 b37c Generated table #313@0: 572 keys, 413386 bytes
+2025/08/06-15:43:46.393 b37c Compacted 1@0 + 1@1 files => 413386 bytes
+2025/08/06-15:43:46.395 b37c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-15:43:46.395 b37c Delete type=2 #307
+2025/08/06-15:43:46.396 b37c Delete type=2 #311
