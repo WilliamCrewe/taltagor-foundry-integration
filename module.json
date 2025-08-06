@@ -1,10 +1,10 @@
 {
   "id": "taltagor-foundry-integration",
   "title": "Taltagor Foundry Integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13.341"
   },
   "authors": [
     {
@@ -59,7 +59,8 @@
           "color": "#7d160c",
           "packs": [
             "rules",
-            "tables"
+            "tables",
+			"carddecks"
           ],
           "folders": []
         }
@@ -195,28 +196,60 @@
         "ASSISTANT": "OWNER"
       }
     },
+	{
+      "name": "carddecks",
+      "label": "Cards",
+      "path": "packs/carddecks",
+      "type": "Cards",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
       "name": "items",
       "label": "Items",
       "path": "packs/items",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
+    },
+	{
+      "name": "monsters",
+      "label": "Monsters",
+      "path": "packs/monsters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monsterfeatures",
+      "label": "Monster Features",
+      "path": "packs/monsterfeatures",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
-  ],
-  "esmodules": [
-	
   ],
   "scripts": [
     "scripts/taltagor-languages.js",
-	"scripts/luck-ability.js",
-	"scripts/taltagor-weapons.js",
-	"scripts/taltagor-rests.js",
-	"scripts/taltagor-unarmoured-ac.js",
-	"scripts/taltagor-currency.js"
+    "scripts/luck-ability.js",
+    "scripts/taltagor-weapons.js",
+    "scripts/taltagor-rests.js",
+    "scripts/taltagor-unarmoured-ac.js",
+    "scripts/taltagor-currency.js",
+	"scripts/taltagor-equipment.js",
+	"scripts/taltagor-traits.js"
   ],
   "relationships": {
     "systems": [
@@ -228,10 +261,11 @@
     ]
   },
   "languages": [
-	{
-		"lang": "en",
-		"name": "English",
-		"path": "languages/en.json"
-	}
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
   ]
 }
