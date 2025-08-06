@@ -59,7 +59,8 @@
           "color": "#7d160c",
           "packs": [
             "rules",
-            "tables"
+            "tables",
+			"carddecks"
           ],
           "folders": []
         }
@@ -195,6 +196,17 @@
         "ASSISTANT": "OWNER"
       }
     },
+	{
+      "name": "carddecks",
+      "label": "Cards",
+      "path": "packs/carddecks",
+      "type": "Cards",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
       "name": "items",
       "label": "Items",
@@ -236,7 +248,8 @@
     "scripts/taltagor-rests.js",
     "scripts/taltagor-unarmoured-ac.js",
     "scripts/taltagor-currency.js",
-	"scripts/taltagor-equipment.js"
+	"scripts/taltagor-equipment.js",
+	"scripts/taltagor-traits.js"
   ],
   "relationships": {
     "systems": [
