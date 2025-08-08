@@ -1,11 +1,9 @@
-2025/08/06-15:43:41.026 5168 Recovering log #309
-2025/08/06-15:43:41.030 5168 Level-0 table #311: started
-2025/08/06-15:43:41.045 5168 Level-0 table #311: 901365 bytes OK
-2025/08/06-15:43:41.052 5168 Delete type=0 #309
-2025/08/06-15:43:41.053 5168 Delete type=3 #308
-2025/08/06-15:43:46.379 b37c Compacting 1@0 + 1@1 files
-2025/08/06-15:43:46.393 b37c Generated table #313@0: 572 keys, 413386 bytes
-2025/08/06-15:43:46.393 b37c Compacted 1@0 + 1@1 files => 413386 bytes
-2025/08/06-15:43:46.395 b37c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/06-15:43:46.395 b37c Delete type=2 #307
-2025/08/06-15:43:46.396 b37c Delete type=2 #311
+2025/08/07-16:28:04.219 1212c Recovering log #325
+2025/08/07-16:28:04.228 1212c Level-0 table #327: started
+2025/08/07-16:28:04.256 1212c Level-0 table #327: 2138947 bytes OK
+2025/08/07-16:28:04.265 1212c Delete type=0 #325
+2025/08/07-16:28:04.269 1212c Delete type=3 #324
+2025/08/07-16:28:55.088 ddac Compacting 1@0 + 1@1 files
+2025/08/07-16:28:55.107 ddac Generated table #329@0: 687 keys, 537126 bytes
+2025/08/07-16:28:55.107 ddac Compacted 1@0 + 1@1 files => 537126 bytes
+2025/08/07-16:28:55.109 ddac compacted to: files[ 0 1 0 0 0 0 0 ]
