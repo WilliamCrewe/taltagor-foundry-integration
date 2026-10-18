@@ -1,0 +1,3664 @@
+meta:
+  columns:
+  - id: lrfzkfbxmb
+    name: Things
+objects:
+- id: lrfzkfbxmb
+  objects:
+  - id: nhfnpuayen
+    name: Alchemical Guide
+    shared_name: 
+    status: 1
+    blurb: >-
+      # $[objectname]
+
+
+      *"Vendors and traders provide easy access to tools, equipment, potions and poisons for those with enough funds to accommodate oftentimes inflated prices. However, the savvy adventurer knows that the world around them is rich with potential reagents, waiting only for someone with the right aptitude and inclination to harness them.*
+
+
+      *Welcome, kindred seekers of wisdom and worth. With each turn of the page, we shall delve deep into the vibrant tapestry of minerals holding essence of earth, the tantalizing secrets of plants to both harm and heal, and the verdant bounty sealed beneath the flesh and form of the creatures roaming the wilds.*
+
+
+      *Let our words be your compass, our knowledge serve as your guide, as we extract the treasures of the natural world together."*  
+
+      \- ***The Lord's Harvest: Secrets of Nature's Bounty***, *by Leafwhisper Aelendir*
+
+
+      <br>
+
+
+      </br>
+
+
+      ## Index
+
+
+      - Part 1: Reagent Gathering
+        - Sourcing and Searching
+        - Harvesting
+      - Part 2: Alchemy
+        - The Basics
+        - Potions
+        - Poisons
+        - Poultices
+      - Part 3: Crafting
+        - The Basics
+        - Lirandelai: Alchemical Crafting
+      - Part 4: @[](uncehewmmc)
+        - @[](pfuakxdwta)
+        - @[](fxwhwqwcgm)
+        - @[](mktnnbueuc)
+        - @[](paxgbkwryj)
+
+      <br>
+
+
+      </br>
+
+
+      ## Part 1: Reagent Gathering
+
+
+      Before you can brew a potion or forge a sword, you first need the materials used in their creation. This can be broken into three distinct steps: Determining what reagents you require. Finding those reagents out in the world. And harvesting them effectively so that they can be used. While only you can determine which reagents you wish to use (Perhaps with the help of the @[](uncehewmmc)), we will cover finding and harvesting your desired reagents within this chapter.
+
+
+      <pre>
+
+
+      </pre>
+
+
+
+      ### Sourcing and Searching
+
+
+      The savvy adventurer knows to gather and harvest whenever the opportunity arises; you never know when you might need an extra unit of Arthite! Throughout your travels you will encounter different reagents in the wild that require only the knowledge and skill to harvest them. This sub-section covers instead the instance where you require a specific reagent for your goals.  
+
+      First you must identify where such a material can be found. This can be done through Downtime. 
+
+
+      ***Resources.*** Typically, a character needs access to a library, hunter, geologist or herbalist (According to the reagent they are seeking). Assuming such access is available, this research requires one workweek of effort and at least 50ib spent on materials, bribes, gifts, and other expenses.
+
+
+      ***Resolution.*** The character declares the specifics of their search—typically the location of a reagent or creature, but a character may seek a particular property instead. Note, learning what reagent houses what property and the location of that property are two different items to learn.  
+
+      After one workweek, the character makes an Intelligence check with a +1 bonus per additional 100ib spent, up to a maximum bonus of +6. A character with access to a particularly well-stocked library or knowledgeable individual gains advantage on this check.  
+
+      The character learns an amount of lore as shown by the details below.
+
+
+      ##### Research Outcomes:
+
+      - 1-5: Nothing
+
+      - 6-10: 1 Piece of Lore
+
+      - 11-20: 2 Pieces of Lore
+
+      - 21+: 3 Pieces of Lore
+
+
+      Once a character has identified the location of the reagent they wish to acquire, the character must then travel to the required destination. You may be further required to make a Wisdom (Survival) check to track a creature, or to locate the specific plant or mineral vein.
+
+
+      <br>
+
+
+      </br>
+
+
+      ### Harvesting
+
+
+      Your desired reagent is in your sights, whether following weeks of work to locate it, or happy accident! Now you need only successfully harvest it, which can prove a challenge in and of itself. Different reagents will require different hurdles to be overcome during this process. 
+
+
+      #### Arcane
+
+
+      ***Identification.*** A character must succeed on an Intelligence (Arcana) check to identify the means through which the reagent can be harvested. 
+
+
+      ***Harvesting.***
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Fauna
+
+
+      ***Identification.*** Some reagents, such as fur or scales, provide no difficult in identifying how to harvest them. For others a character must succeed on an Intelligence (Nature) check to identify the means through which the creature can be harvested. This check may be replaced by another for unusual creatures, such as an Arcana check for an Elemental, or a Religion check for a Fiend or Celestial. The DC is determined by the rarity of the creature, in addition to its CR. A successful check reveals all harvestable reagents from this creature.
+
+
+      ***Immobilization*** Unlike most reagents, creatures will not simply stand still while you attempt to harvest them. Before you can harvest, the creature must be Incapacitated or Dead. Some Reagents may only be accessible from a creature while it remains alive.
+
+
+      ***Harvesting.*** Once immobilized, a character may attempt to harvest reagents from a creature. To do so, choose which reagent you are harvesting from the @[Fauna Reagent](fxwhwqwcgm) list (Where applicable). You may choose a number of Reagents as determined by the size of the creature (See the *Creature Harvesting* table below), but must choose a different Reagent for each attempt.  
+
+      *Each Reagent may be harvested a maximum of twice from a Gargantuan or Colossal creature.
+
+
+      For each Reagent, make an Intelligence or Wisdom (Survival) check (**DC: 15 + 1/2 of the creature's CR**, rounded down, minimum of 0).  
+
+      On each success, you gain a number of Units of Reagent equal to the number listed in the *Creature Harvesting* table below. A Critical Success (Natural 20) results in 1 additional Unit being harvested, while a Critical Failure (Natural 1) reduces the Max Check number by 1.
+
+
+      ##### Creature Harvesting
+
+
+      | Size        | Max Checks | Units Gained |
+
+      |:-----------:|:----------:|:------------:|
+
+      | Tiny        | 1          | 1/2          |
+
+      | Small       | 1          | 1            |
+
+      | Medium      | 2          | 1            |
+
+      | Large       | 3          | 1            |
+
+      | Huge        | 4          | 2            |
+
+      | Gargantuan* | 6          | 2            |
+
+      | Colossal*   | 8          | 3            |
+
+
+      The harvest time required is detailed on each Reagent. Whenever you fail the check to harvest a Reagent by 5 or more, you suffer the Penalty detailed on that Reagent (Where applicable).
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Flora
+
+
+      ***Identification.*** A character must succeed on an Intelligence (Nature) check to identify the means through which the desired reagent can be harvested. This check may be replaced by another for unusual flora, such as an Arcana check for an enchanted plant, or a Persuasion check for a sentient plant. The DC is typically 15, but may be adjusted by the rarity of the reagent.
+
+
+      ***Harvesting.*** Flora typically do not require the character to make a check to harvest. However, more exotic or rarer plants may require a Dexterity (Sleight of Hand) check.
+
+
+      After locating the desired reagent, make a Luck check to determine how many units are present. Consult the *Plant Harvest* table below. 
+
+
+      | Luck    | Max Units |
+
+      |:-------:|:---------:|
+
+      | 1 - 5   | 0         |
+
+      | 6 - 10  | 1         |
+
+      | 11 - 15 | 1d4       |
+
+      | 16 - 18 | 1d4+1     |
+
+      | 19      | 1d4+2     |
+
+      | 20      | 1d4+4     |
+
+      | 21+     | 2d4+2     |
+
+
+      Harvesting flora typically takes 20 minute per unit gathered.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Mineral
+
+
+      ***Identification.*** Minerals typically do not require the character to identify a means to harvest them, but may require an Intelligence (Nature) check to locate unexposed veins . For rarer or more volatile minerals, you may need to make an Intelligence (Nature) check to identify the means through which you can harvest the desired reagent.
+
+
+      ***Harvesting.*** The character attempting to harvest from the mineral vein requires a Miner's Pick. You must make a Strength (Athletics) check. The DC for this check is typically 15. A result of less than the DC reduces the number of units extracted by an amount equal to the difference between the Check and the DC.  
+
+      If the character has Tool Proficiency with Masonry Tools, they make this check with advantage when harvesting ores or stones.  
+
+      If the character has Tool Proficiency with Jeweller's Tools, they make this check with advantage when harvesting gemstones. 
+
+
+      The harvest time required is detailed on each Reagent. When you complete your attempt to harvest, you gain 1d4 units of Mineral.
+
+      For check results 5 or more above the DC, you gain one additional unit for each 5 above the DC.
+
+
+      <br>
+
+
+      </br>
+
+
+      <br>
+
+
+      </br>
+
+
+      ## Part 2: Alchemy
+
+
+      *"Amidst swirling cauldrons and bubbling glassware, the art of Alchemy beckons. Here, within the realm of masters, lies secrets of source, soul and synthesis. Step into my den, allow your senses to be tantalized by the aromas of exotic herbs, rare components and bubbling concoctions. From healing draughts, to empowering brews, to brews more sinister.*
+
+
+      *Welcome, aspiring Alchemical Masters, to the art of Alchemy."*  
+
+      \- ***The Lord's Harvest: Secrets of Nature's Bounty***, *by Leafwhisper Aelendir*
+
+
+      <br>
+
+
+      </br>
+
+
+      ### The Basics
+
+      Once your shelves are stocked with your desired Reagents, you are ready to put them to use. Unfortunately, not all Reagents are alchemically useful, while those that are must be used in the correct manner to produce a successful creation. Alchemically reactive Reagents can be divided into three categories for the purpose of alchemy: Base, Catalyst, Ingredients. 
+
+
+      A complete creation is made up of:
+
+      - One Unit of Base Reagent
+
+      - One Unit of Catalyst
+
+      - One Unit or more of Ingredients
+
+
+      This is true for all fields of Alchemy, whether Potion, Poison or Poultice. During crafting, a single Reagent cannot be used to fulfil two or more categories. e.g. You cannot use Water as a Reagent for both the Alchemical Base and Alchemical Catalyst for a creation, regardless of the number of units used.
+
+
+      To perform any alchemical activity, a character requires access to the specific Artisan Tool in addition to having Proficiency with that tool relevant to the specific field they are working within: 
+
+      - ***Potions.*** Alchemist's Supplies
+
+      - ***Poisons.*** Poisoner's Kit
+
+      - ***Poultices.*** Herbalism Kit
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Base
+
+      The Base Reagent, typically a liquid, serves as the primary compound within which the other reagents will combine. Poor Base Reagents limit the maximum number of Ingredients that can be successfully incorporated, which also limits the maximum potential a alchemical creation can achieve. Consult the *Alchemy Base* table below.
+
+
+      ##### Alchemy Base
+
+      | Quality   | Max Ingredients | Example Reagent |
+
+      |:---------:|:---------------:|:----------------|
+
+      | Common    | 1               | @[](rlbskslmtb)
+
+      | Uncommon  | 2               | Oil
+
+      | Rare      | 3               | @[Primordial Water](wlinndxboq)
+
+      | Very Rare | 5               | @[Spiritual Water](asvcqebtju)
+
+      | Legendary | 7               | @[Essence of Divinity](lfvysylxrb)
+
+
+      An alchemical creation's rarity cannot exceed the rarity of its Base, and the crafting process consumes a number of Units of Alchemical Base equal to the number of Ingredients used.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Catalyst
+
+      The catalyst serves as a means to unite the potentially divergent properties of the Ingredients into the final uniform result. The quality of Catalyst determines the maximum number of different properties a single alchemical creation can possess. Consult the *Alchemy Catalyst* table below. Additionally, higher quality Catalysts often impart additional effects to the creation unique to that Catalyst.
+
+
+      ##### Alchemy Catalyst
+
+      | Quality   | Max Properties  | Example Reagent |
+
+      |:---------:|:---------------:|:----------------|
+
+      | Common    | 0               |
+
+      | Uncommon  | 1               |
+
+      | Rare      | 2               |
+
+      | Very Rare | 3               |
+
+      | Legendary | 4               |
+
+
+      Owing to it's purely additive feature, many Alchemists will choose to utilize a lower quality reagent for creations with a singular purpose: e.g. Alchemical fire, which seeks to only erupt into fire. The more experimental alchemist can produce creations with multiple simultaneous effects.
+
+
+      While often difficult (and potentially expensive) to acquire, Catalysts are not consumed when used Alchemically for this purpose. All creations require 1 Unit of Alchemical Catalyst.
+
+
+      <pre>
+
+
+      </pre>
+
+
+      ##### Catalyst and Base Compatibility
+
+
+      Catalysts function more effectively when they are of the same Reagent type as is used in the Base. e.g. A Flora Catalyst will work complimentarily with a Flora Base.
+
+
+      Catalysts that match the same Reagent Type as their base increase the Maximum Properties of the Alchemical Creation by 1.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Ingredients
+
+      The true art of Alchemy lies within the combination of Ingredients used and the subsequent effects they produce. There is a wide difference between throwing materials unknowingly into the pot, and carefully combining complimentary ingredients (Although one is absolutely more fun than the other).
+
+
+      An Alchemical Creation is formed through the use of one or more Ingredients combining together. Ingredients can be divided into the two roles they serve:  
+
+      ***Effect.***  Serving as the principle ingredient of the creation, this determines the type of potion produced.  
+
+      ***Enhancement.*** Typically stabilising the alchemical creation, more potent varieties can further enhance the creation.
+
+
+
+      All alchemically viable Ingredients can be divided into a number of subgroups depending on their composition; oils, salts, ashes, etc. 
+
+      - Suspension
+
+      - Salt
+
+      - Essence
+
+      - Ash
+
+      - Vitriol (Metals)
+
+
+      <br>
+
+
+      </br> 
+
+
+      #### Incompatible Reagents
+
+      For each attempted creation, Potions, Poisons, Poultices, there are reagents that are incompatible with their production process. These vary between the fields of Alchemy requiring attention to detail for the avid brewer who would dabble in multiple fields. 
+
+
+      An Incompatible Reagent cannot be used as part of the Alchemy process. Attempting to do so results in a failed creation, with all consumed reagents being lost in the process (This includes the Catalyst).
+
+
+      <br>
+
+
+      </br>
+
+
+      ### Potions
+
+
+      ***Tool Proficiency.*** Alchemist's Supplies
+
+
+      ***Catalyst.*** Minerals
+
+
+      ***Ingredients.*** Arcane, Animal Parts
+
+
+      ***Incompatible.*** Flora
+
+
+      <br>
+
+
+      </br>
+
+
+      ### Poisons
+
+
+      ***Tool Proficiency.*** Poisoner's Kit
+
+
+      ***Catalyst.*** Flora
+
+
+      ***Ingredients.*** Arcane, Minerals
+
+
+      ***Incompatible.*** Animal Parts
+
+
+      <br>
+
+
+      </br>
+
+
+      ### Poultices
+
+
+      ***Tool Proficiency.*** Herbalism Kit
+
+
+      ***Catalyst.*** Animal Parts
+
+
+      ***Ingredients.*** Arcane, Flora
+
+
+      ***Incompatible.*** Minerals
+
+
+      <br>
+
+
+      </br>
+
+
+      ## Part 3: Crafting
+
+
+      *"The forging hammer sings its symphony as the birth of wonders, both magical and mundane, are brought to life. As you traverse the pages within, let your imagination ignite as you discover the diverse disciplines entombed within: from skilled blacksmiths forging mighty weapons to mystical weavers imbuing ethereal properties into woven wonders."*
+
+
+      *Welcome, artisans and creators of every discipline, to the truest worship of the natural world itself."*  
+
+      \- ***The Lord's Harvest: Secrets of Nature's Bounty***, *by Leafwhisper Aelendir*
+
+
+      <br>
+
+
+      </br>
+
+
+      ### The Basics
+
+
+      Whether supplied through hides of beasts and riches of the earth you've won yourself, or through the purchase of ores and leathers prepared for use, you find yourself ready to create your own equipment. All manner of items can be crafted when given reagents, time, and the necessary tool proficiency to see the job done. This part of the guide will cover the creation of Non-Magical items.
+
+
+      First you must identify what you wish to create. To produce any Weapon, Armour, Artisanal Tool or piece of Adventuring Gear, you must have the appropriate Artisan's Tool and Proficiency before you can begin. Consult the below table for examples of what items can be created by Artisan Tools. 
+
+
+      <pre>
+
+
+      </pre>
+
+
+      ##### Artisan Tool Examples
+
+      | Artisan's Tool           | Weapons | Armour | Adventuring Gear | Artisan Tools |
+
+      |:-------------------------|:-------:|:------:|:----------------:|:-------------:|
+
+      | Brewer's Supplies        | — | — | Ale, Perfume, Wine | — |
+
+      | Calligrapher's Supplies  | — | — | — | Playing card set, Three-dragon ante |
+
+      | Carpenter's Tools        | — | — | Barrel, Ladder, *furniture* | — |
+
+      | Cartographer's Tools     | — | — | *maps*| — |
+
+      | Cobbler's Tools          | — | — | Climbing shoes, Snow shoes | — |
+
+      | Cook's Utensils          | — | — | Banquet, Meat, Soap | — |
+
+      | Glassblower's Tools      | Blowgun Needles, Dart | — | *glassware* | — |
+
+      | Jeweller's Tools         | — | — | Holy Symbol (Amulet), Mirror (Steel), Signet Ring | — |
+
+      | Leatherworker's Tools    | Whip | Light Armour, Hide | Backpack, Pouch, Quiver | — |
+
+      | Mason's Tools            | — | — | Block and Tackle, Ram (Portable) | — |
+
+      | Painter's Supplies       | — | — | Holy Symbol (Emblem), *art* | — |
+
+      | Potter's Tools           | — | — | Flask, Holy Symbol (Reliquary) | — |
+
+      | Smith's Tools            | Bolts, Battleaxe, Longsword | Chain Shirt, Heavy Armour, Shields | Ball Bearings, Lamp, Manacles, *metal objects* | — |
+
+      | Tinker's Tools           | — | — | Chalk, Scale (Merchant), Whetstone | Artisan Tools |
+
+      | Weaver's Tools           | — | Padded | Basket, Clothes, Sack, Tent, *cloth* | — |
+
+      | Woodcarver's Tools       | Arrows, Club, Spear, Longbow | Shield, Wooden Armour | Pole (10ft) | Dice set, Flute, Pan Flute |
+
+
+      Many more items can be produced other than those listed in the above table, and you may be able to make use of a different Artisan Tool to perform the same task as another. Consult your DM if you have any questions.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Units for Crafting
+
+      Different items require a different amount of reagent to be able to create them. This is typically determined based on the size of the item. Consult the table below.  
+
+      If you are instead purchasing materials to produce a standard item, you require an amount of raw materials equal to half the item's selling cost.
+
+
+
+      ##### Units for Crafting
+
+      | Type of Item                           | Tiny |Small/Medium | Large | Huge | Gargantuan |
+
+      |:---------------------------------------|:----:|:-----------:|:-----:|:----:|:----------:|
+
+      | Ammunition or Simple Weapon            | 1    | 1           | 2     | 4    | 8
+
+      | Martial Weapons or Light/Medium Armour | 1    | 2           | 4     | 8    | 16
+
+      | Heavy Armour                           | 2    | 3           | 6     | 12   | 24
+
+      | Barding                                | 3    | 4           | 8     | 16   | 32
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Crafting Duration
+
+      The total time required to create an object is determined by the cost of the Reagents or materials used to create it. You can determine this cost in two ways:
+
+      - Add together the total cost of all Reagents used in the crafting of this item
+
+      - Consult the selling cost of the item.
+
+
+      The total time required to create the object is the greater of these two values. This represents the material cost of the item, as well as the difficulty to forge such an item due to exotic materials or a complicated design.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Crafting Progress
+
+
+      A character progresses at a rate of 25ib per day spent crafting with access to Reagents, Tools, and the appropriate facilities (if necessary). A character can complete multiple items in a day if the item's combined cost is 25ib or lower. Items that cost more than 25ib can be completed over longer periods of time, as long as the work in progress is stored in a safe location. 
+
+
+      Multiple characters can combine their efforts if they each possess the appropriate Artisan Tool and Proficiency. Divide the time needed to create an item by the number of characters working on it. The DM may determine a limited number of characters may work on a single item at once. 
+
+
+      ##### Tiny Crafting and Exceptions
+
+
+      While crafting particularly small objects do not consume many Reagents, they do require additional time to create. This may also be true of other particularly delicate objects as determined by your DM.  
+
+      Crafting these items progresses more slowly as slow, at a rate of 10ib every day. This penalty may be removed through @[other means](cjentiuofg).
+
+
+      <br>
+
+
+      </br>
+
+
+      ### Lirandelai: Alchemical Crafting
+
+      *Pronounced: Lee-rran-de-lie*
+
+
+      While many artisans and craftsmen can make an adequate—if not comfortable—life for themselves utilising the readily available materials harvested throughout Taltagor, those that seek perfection in their craft look beyond the mundane. Prevalent within Elvish traditions, Lirandelai (Translated: Nature's Blessing) is the practice of manipulating reagents to extract the fullest of their nature from within. While most smiths could theoretically forge a blade from Darksteel, only a master can allow the metal's intrinsic traits to electrify its attacks while leaving its wielder unharmed.
+
+
+      <br>
+
+
+      </br>
+
+
+      #### Progress and Complications
+
+
+      When attempting to craft an item using a Reagent of Uncommon rarity or higher, a character's skill determines how effective they are at producing that item. For every 100ib worth of progress that is made during the crafting of an item, the character involved must make a Skill Check using the appropriate Tool and Ability Score for the task (See the *Artisan Tool Checks* table below for general examples). A character with Proficiency in the appropriate Skill for the Tool they are using makes that check with advantage.  
+
+      If multiple characters are working together to produce an item, a single check is made per 100ib progress by the character with the highest modifier amongst those contributing.
+
+
+      ##### Artisan Tool Checks
+
+      | Artisan's Tool           | Check                          |
+
+      |:-------------------------|:------------------------------:|
+
+      | Brewer's Supplies        | Constitution (Insight)         |
+
+      | Calligrapher's Supplies  | Dexterity (History)            |
+
+      | Carpenter's Tools        | Intelligence (Survival)        |
+
+      | Cartographer's Tools     | Wisdom (Investigation)         |
+
+      | Cobbler's Tools          | Intelligence (Insight)         |
+
+      | Cook's Utensils          | Wisdom (Nature)                |
+
+      | Glassblower's Tools      | Dexterity (Athletics)          |
+
+      | Jeweller's Tools         | Intelligence (Sleight of Hand) |
+
+      | Leatherworker's Tools    | Constitution (Survival)        |
+
+      | Mason's Tools            | Strength (Investigation)       |
+
+      | Painter's Supplies       | Charisma (Sleight of Hand)     |
+
+      | Potter's Tools           | Dexterity (Performance)        |
+
+      | Smith's Tools            | Constitution (Athletics)       |
+
+      | Tinker's Tools           | Intelligence (Sleight of Hand) |
+
+      | Weaver's Tools           | Wisdom (Investigation)         |
+
+      | Woodcarver's Tools       | Dexterity (Survival)           |
+
+
+      If an item's value is 100ib or less to produce, you make one Check at the end of the crafting process. Consult the *Lirandelai Outcomes* table below for the result of that Skill Check.  
+
+
+      <br>
+
+
+      </br>
+
+
+      ##### Lirandelai Outcomes
+
+      | Uncommon Item | Rare Item | Very Rare Item | Legendary Item | Outcome |
+
+      |:-------------:|:---------:|:--------------:|:--------------:|:--------|
+
+      | 1 - 5         | 1 - 5     | 1 - 10         | 1 - 10         | You suffer a significent setback. Roll twice on the *@[complications](jvbbwcjmss)* table.
+
+      | 6 - 10        | 6 - 10    | 11 - 15        | 11 - 15        | You suffer a setback. Roll once on the *@[complications](jvbbwcjmss)* table. In addition, you are set back 50ib value of crafting time.
+
+      | 11 - 15       | 11 - 20   | 16 - 20        | 16 - 24        | Crafting is proceeding as hoped.
+
+      | 16 - 20       | 21 - 25   | 21 - 25        | 25 - 30        | Crafting is proceeding quickly. You progress an additional 25ib value of crafting time.
+
+      | 21+           | 26+       | 26+            | 31+            | You make a breakthrough! You progress an additional 50ib value of crafting time.
+    order: 1
+    notes: []
+    chapters: []
+    consumables: []
+    shared: true
+    access_roles: []
+    primaryid: 
+    prominence: 
+    alias: 
+    children:
+    - id: uncehewmmc
+      name: Reagent Compendium
+      shared_name: 
+      status: 1
+      blurb: "# $[objectname]\n\n*\"Beyond this veil lies my life's work; a compendium of reagents collected from the five corners of the world. A list hard won from beasts and botanists, of rock and river, in grave and grove. This compendium contains, to my current knowledge, every valuable form of reagent that one might gather to build the next generation of weapon, or brew the next staple potion. Use it wisely.\"* \n\n<br>\n\n<br>\n\n### @[](pfuakxdwta)\nMotes of elemental essence rising around primordial fonts. Arcane dust formed between clashes of eldritch storms. Mana crystalizing after great rituals complete. These reagents are often the most valuable, and most difficult to acquire, or to make. \n\n### @[](fxwhwqwcgm)\nThis category contains most reagents harvested from living creatures. Owing to the vast range of creature type that prowl the world, from elemental beings forged from stone, to the enchanted logs from a Treant, there may be overlap with the other reagent categories.\n\n### @[](mktnnbueuc)\nVines, fruits, mushrooms and trees, the flora of the world comes in *almost* countless shapes and sizes. These harvests forge the backbone of most alchemical creations.\n\n### @[](paxgbkwryj)\nWhether mined from the bowels of the earth, or instead harvested from a mountain's peak, the minerals of this world can serve as vital building blocks and alchemical catalysts. "
+      order: 1
+      notes: []
+      chapters: []
+      consumables: []
+      shared: true
+      access_roles: []
+      primaryid: 
+      prominence: 
+      alias: 
+      children:
+      - id: pfuakxdwta
+        name: Arcane
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 1
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children:
+        - id: lmgduzrfak
+          name: ?????
+          shared_name: 
+          status: 1
+          blurb: >-
+            # $[objectname]
+
+
+            *???? Arcane Material*
+
+
+            This irregular crystalline material sheds a pale blue-white glow from within.
+
+
+            <pre>
+
+
+            </pre>
+
+
+            ### Harvesting
+
+
+            **Harvest Duration.** 30 minutes per Unit
+
+
+            **Harvest Penalty.** N/A
+
+
+            <br>
+
+
+            </br>
+
+
+            #### Crafting Properties
+
+
+            **Unit Value.** ??ib
+
+
+            **Armour.** ??
+
+
+            **Weapons.** Whenever a spell of 1st level or higher is cast within 5 feet of the wielder that is of a Form of Magic not currently stored within the weapon, the caster must succeed on a DC 15 Constitution saving throw or the spell is negated and the form of magic is assimilated.  
+
+            The weapon gains beneficial effects depending on the assimilated magical energy:
+
+
+            | Magic Form  | Effect |
+
+            |:-----------:|:-------|
+
+            | Arcane      | While wielding this weapon, you gain a +1 bonus to spell attack rolls for spells you cast.
+
+            | Nature      | Creature's hit by this weapon cannot regain Hit Points until the end of your next turn.
+
+            | Primordial  | Hits with this weapon deal an additional 1d6 damage of the same damage type as the spell assimilated.
+
+            | Witchcraft  | Creature's hit by this weapon make Concentration saves at disadvantage until the end of your next turn.
+
+            | Vuurd       | ?
+
+            | Divine      | ?
+
+
+            All stored magic within the weapon dissipates daily at Dusk.
+
+
+            <br>
+
+
+            </br>
+
+
+            #### Alchemical Properties
+
+
+            **Base.** When heated to a liquid and then rapidly cooled, this unusual material maintains itself as a gel-like fluid. When used as an Alchemical Base, the potency of @[](pfuakxdwta) Alchemical Ingredients is doubled.
+
+
+            **Ingrediant.** ??
+          order: 1
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: fwlufwuknf
+            name: GM NOTES
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              Name: Prismatic Radiance
+
+
+              <br>
+
+
+              </br>
+
+
+              #### Crafting
+
+
+
+
+              **Armour.**  Whenever a spell of 1st level or higher is cast within 5 feet of the wearer that is of a form of magic not currently stored within the armour, the caster must succeed on a DC 15 Constitution saving throw or the spell is negated and the form of magic is assimilated.  
+
+              The armour gains beneficial effects depending on the assimilated magical energy:
+
+
+              | Magic Form  | Effect |
+
+              |:-----------:|:-------|
+
+              | Arcane      | 
+
+              | Nature      | 
+
+              | Primordial  | 
+
+              | Witchcraft | 
+
+              | Vuurd       | 
+
+              | Divine      | 
+
+
+              All stored magic within the armour dissipates daily at Dusk.
+
+
+              **Weapons.** Whenever a spell of 1st level or higher is cast within 5 feet of the wielder that is of a Form of Magic not currently stored within the weapon, the caster must succeed on a DC 15 Constitution saving throw or the spell is negated and the form of magic is assimilated.  
+
+              The weapon gains beneficial effects depending on the assimilated magical energy:
+
+
+              | Magic Form  | Effect |
+
+              |:-----------:|:-------|
+
+              | Arcane      | While wielding this weapon, you gain a +1 bonus to spell attack rolls for spells you cast.
+
+              | Nature      | Creature's hit by this weapon cannot regain Hit Points until the end of your next turn.
+
+              | Primordial  | Hits with this weapon deal an additional 1d6 damage of the same damage type as the spell assimilated.
+
+              | Witchcraft  | Creature's hit by this weapon make Concentration saves at disadvantage until the end of your next turn.
+
+              | Vuurd       | Whenever you hit a creature with this weapon, it's move speed is reduced by 5 feet until the end of your next turn.
+
+              | Divine      | Creature's hit by this weapon cannot benefit from Invisibility or Hide from you until the end of your next turn.
+
+
+              All stored magic within the weapon dissipates daily at Dusk.
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: false
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: information
+          statblock: 
+          subtype: item
+        - id: etgnslmswz
+          name: Nimbulwrought
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Very Rare Arcane Material*
+
+
+            A tough, shimmering alloy of solid cloud and silver, affixed to wyndwood.
+
+
+            **Unit Value:** 750 ib
+
+
+            **Vehicle:** A vehicle made entirely from Nimblewrought retains the lighter properties, without suffering the weakness issues. A vehicle's Overworld Travel speed is increased by 50%.
+          order: 2
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: blpfpbfwhg
+          name: Stellar Iron
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Legendary Arcane Material*
+
+
+            A bright white metal, soft on touch but very resistant, known for being used by the Divine Beings.
+
+
+            **Unit Value:** 1,000 ib
+
+
+            **Armour:** While wearing a medium or heavy armour (non hide) made with stellar iron, you have a +2 bonus to your Armour Class, and you have resistance against necrotic and radiant damage.
+
+
+            **Weapons:** A weapon completely made out of stellar iron deals radiant damage instead of its normal damage type and receives a bonus of +2 to attack and damage rolls made with it. Additionally, when you hit a creature, you deal an extra 1d4 radiant damage.
+          order: 3
+          notes: []
+          chapters: []
+          consumables: []
+          shared: false
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: wlinndxboq
+          name: Primordial Water
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 4
+          notes: []
+          chapters: []
+          consumables: []
+          shared: false
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: information
+        - id: asvcqebtju
+          name: Spiritual Water
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 5
+          notes: []
+          chapters: []
+          consumables: []
+          shared: false
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: information
+        - id: lfvysylxrb
+          name: Essence of Divinity
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 6
+          notes: []
+          chapters: []
+          consumables: []
+          shared: false
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: information
+        statblock: 
+        subtype: document
+      - id: fxwhwqwcgm
+        name: Fauna
+        shared_name: 
+        status: 1
+        blurb: >-
+          # $[objectname]
+
+
+          This index seeks to help make it easier to navigate the many potential options of creature-based Reagents.
+
+
+          <br>
+
+
+          </br>
+
+
+          ### Aberration
+
+
+          ### Beast
+
+
+          ### Celestial
+
+
+          ### Construct
+
+
+          ### Dragon
+
+
+          ### Elemental
+
+
+          ### Fey
+
+
+          ### Fiend
+
+
+          ### Giant
+
+
+          ### Humanoid
+
+
+          ### Monstrosity
+
+
+          ### Ooze
+
+
+          ### Plant
+
+
+          ### Undead
+        order: 2
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children:
+        - id: xpkkimkwqr
+          name: Bone
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rarity Varies*
+
+
+            A series of bones joined together, mostly used by shamans and wildlings.
+
+
+            **Unit Value:** Determined by creature's CR
+
+
+            **Armour:** Replaces the metal. While wearing a medium or heavy armour (non-hide) made with bones, you have advantage on Intimidation checks.  
+
+            Bones foraged from creatures with a higher CR may provide additional bonuses.
+
+
+            **Weapon:** This material replaces the metal and wood.  
+
+            Bones foraged from creatures with a higher CR may provide additional bonuses.
+          order: 1
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: pmdnkqqngh
+          name: Chitin
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rarity Varies*
+
+
+            Flexible shells of chitinous creatures such as giant crabs or remorhaz, known to be lighter than metallic armours.
+
+
+            **Unit Value:** Determined by the creature's CR.
+
+
+            **Armour:** Replaces the metal. While wearing a medium armour (non hide) made with chitin, the armour's dexterity bonus increases by 1. Heavy armours made with chitin reduce the Strength requirement by 1.  
+
+            Chitin foraged from creatures with a higher CR may provide additional bonuses.
+          order: 2
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: zglrycxlwe
+          name: Coral
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Common Material*
+
+
+            Mostly used by sea and waterborne creatures to create their weapons and armours.
+
+
+            **Unit Cost:** 100 ib
+
+
+            **Armour:** Replaces the metal. While wearing a medium or heavy armour (non hide) made with coral, your speed while swimming increases by 10 feet.
+
+
+            **Weapons:** Any melee weapon made with coral doesn't have disadvantage on the attack rolls while underwater.
+          order: 3
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: iqcaogcixa
+          name: Feathers
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rarity Varies*
+
+
+            Hippogriffs, Rocs, giant eagles and other flying creatures bare beautiful feathers that display their majesty.
+
+
+            **Unit Value:** Determined by the creature's CR.
+
+
+            **Armour:** While wearing clothing or any non-metallic armour made with beast feathers, you have advantage on any animal handling checks.  
+
+            Feathers foraged from creatures with a higher CR may provide additional bonuses.
+          order: 4
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: gudvbowret
+          name: Hides
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 5
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: mvaohplxik
+            name: Ellond Hide
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Rarity Varies*
+
+
+              This brown-orange hide is harvested from desert and dry area creatures.
+
+
+              **Unit Value:** Determined by the creature's CR
+
+
+              **Armour:** While wearing clothing or any non-metallic armour made with Ellond hide, fire damage that you take from non-magical sources is reduced by 3.  
+
+              Hide foraged from creatures with a higher CR may provide additional bonuses.
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: lyynaansyw
+            name: Infernal Leather
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Very Rare Material*
+
+
+              A reddish, hard leather created in one of the many planes.
+
+
+              **Unit Value:** 750 ib
+
+
+              **Armour:** While wearing clothing or any non-metallic armour made with infernal leather, you have a +1 bonus to your Armour Class and you gain resistance against fire damage.
+            order: 2
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          statblock: 
+          subtype: storyevent
+        - id: asyjqvbtef
+          name: Oils
+          shared_name: 
+          status: 1
+          blurb: >+
+            # $[objectname]
+
+          order: 6
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: mnuhdilfva
+            name: Veilstalker Oil
+            shared_name: 
+            status: 1
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Fauna Material*
+
+
+              A slick, silvery secretion lining the inside of a Phase Spider's carapace. Faint blue-white light reflects unbidden in its oily surface.
+
+
+              <pre>
+
+
+              </pre>
+
+
+              ### Harvesting
+
+
+              **Harvest Duration.** 10 minutes (Medium or smaller), 20 minutes (Large), 30 minutes (Huge), 60 minutes (Gargantuan), 120 minutes (Colossal)
+
+
+              **Harvest Penalty.** The creature must succeed on a DC 15 Constitution saving throw or be Poisoned for 1 hour. While poisoned in this manner, the creature cannot take Reactions and may take only an Action or Bonus action on their turn, not both, as they experience intermittent disorientation and difficult perceiving the flow of time accurately.
+
+
+              <br>
+
+
+              </br>
+
+
+              ### Alchemy Properties
+
+
+              **Unit Value:** 300ib
+
+
+              **Base.** This Oil can serve as a Base for Alchemy, producing items of up to Rare quality.
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: information
+          statblock: 
+          subtype: storyevent
+        - id: bccllprtbs
+          name: Scales
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rarity Varies*
+
+
+            Big scales harvested from a creature, with a variety of colours, shapes, and sizes.
+
+
+            **Unit Value:** Determined by the creature's CR.
+
+
+            **Armour:** Replaces the metal. If the armour normally would impose disadvantage on Dexterity (Stealth) checks, a monster scales version does not.  
+
+            Scales foraged from creatures with a higher CR may provide additional bonuses.
+          order: 7
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: gnssfmtnqv
+          name: Silks
+          shared_name: 
+          status: 1
+          blurb: >+
+            # $[objectname]
+
+          order: 8
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: esmwnpnrrt
+            name: Ethersilk
+            shared_name: 
+            status: 1
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Fauna Material*
+
+
+              Delicate strands that shimmering blue with otherworldly luminescence. Spun by Phase Spiders, this silk is infused with ethereal essence.
+
+
+              <pre>
+
+
+              </pre>
+
+
+              ### Harvesting
+
+
+              **Harvest Duration.** 5 minutes (Medium or smaller), 10 minutes (Large), 20 minutes (Huge), 30 minutes (Gargantuan), 60 minutes (Colossal)
+
+
+              **Harvest Penalty.** N/A
+
+
+              <br>
+
+
+              </br>
+
+
+              ### Crafting Properties
+
+
+              **Unit Value:** 500ib
+
+
+              **Clothing:** This item has a number of charges equal to the number of Units used in its creation (Maximum of 3).  
+
+              While wearing clothing entirely made from Ethersilk, as a Bonus Action you can magically shift from the @[](byxwsptqfl) to @[](qeekjestlj). You expend one charge whenever you end your turn within @[](qeekjestlj). As a Bonus Action on your turn, or when you start your turn with no charges remaining, you return to the @[](byxwsptqfl).  
+
+              This item regains all expended charges at Dusk during the Planar Tear.
+
+
+              **Armour:** While wearing non-metallic armour stitched with Ethersilk, force damage that you take is reduced by 3 (minimum of 0).
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: baufpqsfas
+            name: Shadowsilk
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Rarity Varies*
+
+
+              This black semi-transparent silk is carefully made by underground spiders and spider-like creatures.
+
+
+              **Unit Value:** Determined by the creature's CR.
+
+
+              **Armour:** While wearing clothing or any non-metallic armour made with Shadowsilk, you have advantage on any stealth checks made in lightly obscured areas (such as tree shadows.)  
+
+              Silk foraged from creatures with a higher CR may provide additional bonuses.
+            order: 2
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: rupvqherbp
+            name: Solarsilk
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Material*
+
+
+              A faintly luminous thread spun from the Willow Lantern spider. 
+              	
+              **Unit Value:** 500 ib
+
+
+              **Cloth:** Items made from this material emit light continuously, providing bright light in a 5/15/30 foot radius, and dim light for an additional 10/15/30 foot radius after that. The distance is determined by the number of units of Solarsilk used in the item's creation.
+            order: 3
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          statblock: 
+          subtype: storyevent
+        - id: ghvvshwhkb
+          name: Poisons
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 9
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: zvhucvvcwc
+            name: Phase Venom
+            shared_name: 
+            status: 1
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Venom*
+
+
+              A natural coagulant that slows the bodies metabolism, seals wounds, and paralyses the body's functions.
+
+
+              <pre>
+
+
+              </pre>
+
+
+              ### Harvesting
+
+
+              **Harvest Duration.** 1 minutes (Medium or smaller), 5 minutes (Large), 10 minutes (Huge), 20 minutes (Gargantuan), 30 minutes (Colossal)
+
+
+              **Harvest Penalty.** The creature is subject to the poison's effects.
+
+
+              <br>
+
+
+              </br>
+
+
+              ### Poison Properties
+
+
+              **Unit Value.** 600ib
+
+
+              **Application.** As an Action you can coat one slashing or piercing weapon, or up to three pieces of ammunition with this poison. Ammunition applies in this way deals only half damage (2d8).  
+
+              A creature that takes slashing or piercing damage from a weapon or piece of ammunition coated with this poison is exposed to its effects.
+
+
+              **Effect.** The target must succeed on a DC 11 Constitution saving throw. The target takes 18 (4d8) poison damage, or half as much damage on a successful save.  
+
+              If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          statblock: 
+          subtype: storyevent
+        statblock: 
+        subtype: document
+      - id: mktnnbueuc
+        name: Flora
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 3
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children:
+        - id: dbnwdvyyny
+          name: Bloodlinen
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            A dark red material woven from Corpse Bloom that gently secrete a viscous, black fluid.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing clothing or any non-metallic armour made with Bloodlinen, necrotic damage that you take from non-magical sources is reduced by 3 (minimum of 0).
+          order: 1
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: nrfjibkbxj
+          name: Depthweave
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            A pale white, leathery material made from plants found deep in the oceans.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing clothing or any non-metallic armour made with Depthweave, you gain a swim speed of 15 feet.
+          order: 2
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: ksttyqlory
+          name: Leafweave
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Common Material*
+
+
+            Alchemically processed leaves that are hard as leather, used also as camouflage. 
+
+
+            **Unit Value:** 100 ib
+
+
+            **Armour:** While wearing clothing or any non-metallic armour made with Leafweave, you have advantage on stealth checks made in woodlands and forest.
+          order: 3
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: fsmntivjrd
+          name: Needlefiber
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            A tough plant that thrives in the tundra, absorbing the cold.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing clothing or any non-metallic armour made with Needlefiber, cold damage that you take from non-magical sources is reduced by 3 (minimum of 0).
+          order: 4
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: okpqkyldgw
+          name: Nightbane
+          shared_name: 
+          status: 0
+          blurb: "# $[objectname]\n\n*Uncommon Material*\n\nA tough plant that thrives in the tundra, absorbing the cold.\n\n### Harvesting\n\n**Harvest Duration.** 10 minutes\n\n**Harvest Penalty.** N/A\n\n<br>\n\n</br>\n\n### Alchemy Properties: Nightbane Oil\n\n**Unit Value:** 250 ib\n\n**Enhancement:** Therianthrope creatures have disadvantage on any saving throws they would make against Alchemical Creations using this ingredient. "
+          order: 5
+          notes: []
+          chapters: []
+          consumables: []
+          shared: false
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: ssrvqpfigk
+          name: Shade Linen
+          shared_name: 
+          status: 0
+          blurb: "# $[objectname]\n\n*Very Rare Material*\n\nA dark and purple linen made from plants found within the @[](kpkhptdwxh).\n\n**Unit Value:** 750 ib\n\n**Armour:** While wearing clothing or any non-metallic armour made with Half-Shadow linen, you have a +1 bonus to your Armour Class and you have resistance against psychic damage. "
+          order: 6
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: imyrqvpvmf
+          name: Wood
+          shared_name: 
+          status: 0
+          blurb: >+
+            # $[objectname]
+
+          order: 7
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children:
+          - id: xdtglrejem
+            name: Asmoroch Wood
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Material*
+
+
+              A black scorched wood which is cold to the touch.
+
+
+              **Unit Value:** 500 ib
+
+
+              **Weapon:** A weapon completely made of Asmoroch Wood deals necrotic damage instead of its normal damage type. Additionally, when you hit a creature, you deal an additional 1d4 necrotic damage.
+            order: 1
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: jtwmuymknc
+            name: Darkwood
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Common Material*
+
+
+              This piece of wood is as hard as normal wood, but very light.
+
+
+              **Unit Value:** 100 ib
+
+
+              **Armour:** Replaces the metal of any medium or heavy armour.
+            order: 2
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: adbtdewpqn
+            name: Ironbark
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Common Material*
+
+
+              A particular hard variety of wood.
+
+
+              **Use Value:** 100 ib
+
+
+              **Weapons:** Replaces the metal of any simple or martial weapon.
+            order: 3
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: ucrlxjaapk
+            name: Plague Wood
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Uncommon Material*
+
+
+              This ancient, mossy-like wood has small spores floating around it.
+
+
+              **Unit Value:** 250 ib
+
+
+              **Weapons:** When you hit a creature with a weapon made completely with plague wood, you deal an extra 1d4 poison damage.
+            order: 4
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: oqwtcmfkgy
+            name: Spirit Wood
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Uncommon Material*
+
+
+              This cyan coloured wood has a natural connection with magic.
+
+
+              **Unit Value:** 250 ib
+
+
+              **Armour:** Replaces the metal of any medium or heavy armour. While wearing armour made from spiritual wood, you have advantage on concentration saving throws made to maintain a spell.
+
+
+              **Weapons:** When you hit a creature with a weapon made complete with spiritual wood, the creature has disadvantage on any saving throws made to maintain concentration on a spell. You can use a spiritual wood weapon as an arcane focus.
+            order: 5
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          - id: uypupihqbb
+            name: Wyndwood
+            shared_name: 
+            status: 0
+            blurb: >-
+              # $[objectname]
+
+
+              *Rare Material*
+
+
+              A hard yet brittle wooden material. While not suited to combat, once alchemically treated, Wyndwood becomes marginally buoyant in air.
+
+
+              **Unit Value:** 500 ib
+
+
+              **Vehicle:** A vehicles built with Wyndwood with any wooden elements of the vehicle replaced are lighter, and thus quicker, than their counterparts. This speed is obtained at a sacrifice of durability. The vehicle's Overworld Travel speed is increased by 50%, while the vehicle's toughness is reduced by 50%.
+            order: 6
+            notes: []
+            chapters: []
+            consumables: []
+            shared: true
+            access_roles: []
+            primaryid: 
+            prominence: 
+            alias: 
+            children: []
+            statblock: 
+            subtype: item
+          statblock: 
+          subtype: information
+        statblock: 
+        subtype: document
+      - id: paxgbkwryj
+        name: Mineral
+        shared_name: 
+        status: 1
+        blurb: >+
+          # $[objectname]
+
+        order: 4
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children:
+        - id: vxlwcmanyu
+          name: Adamantine
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            A shiny black metal, known as one of the hardest substances in existance.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing a medium or heavy armour (non hide) made with adamantine, any critical hits against you become normal hits.
+
+
+            **Weapons:** When you hit a creature with an adamantine weapon, the damage overcomes any non-magical resistance the creature might have.
+          order: 1
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: ''
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: ykghcsxqud
+          name: Aerocrystal
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            A light blue, glass-like crystal known for creating quick, precise weapons.
+
+
+            **Unit Value:** 500 ib
+
+
+            **Weapon:** You can use your Dexterity modifier for attacks and damage made with an Aerocrystal weapon.
+          order: 2
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: vqesgipgim
+          name: Aethersteel
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Very Rare Material*
+
+
+            This light, lilac coloured metal is sourced from deep within the Aberinth.
+
+
+            **Unit Value:** 750 ib
+
+
+            **Armour:** While wearing medium or heavy armour (non hide) made with Aethersteel, you have a +1 bonus to your Armour Class. Heavy armours made with Aethersteel do not have a Strength requirement and do not impose disadvantage on Dexterity (Stealth) checks. 
+
+
+            **Weapons:** A weapon completely made of Aethersteel loses its *heavy* property, and all other weapons gain the *light* feature. In addition, you receive a +1 bonus to attack and damage rolls with this weapon.
+          order: 3
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: dnceijytjc
+          name: Arthite
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Common Material*
+
+
+            A multi-coloured crystal that faintly emits fractal colours.
+
+
+            **Unit Value:** 100ib
+
+
+            **Object:** An item made out of Arthite emits dim, coloured light in a 10-foot radius.
+          order: 4
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: xxtbnbctyg
+          name: Cold Iron
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            This iron is worked entirely while cold, known for its effectiveness against fey creatures.
+
+
+            **Unit Values:** 100 ib
+
+
+            **Weapons:** When you hit a fey with a cold iron weapon, you can roll the damage die a second time and use either result. In addition, this attack ignores any resistances the Fey might have.
+          order: 5
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: ehbsbkhbth
+          name: Darksteel
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            A darkened blue metal that only forms in areas affected by thunderstorms, known for having that energy dwelling inside it.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing a medium or heavy armour (non hide) made with Darksteel, lightning damage that you take from non-magical sources is reduced by 3 (minimum of 0).
+
+
+            **Weapons:** When you hit a creature with a Darksteel weapon, you deal an extra 1d4 lightning damage.
+          order: 6
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: imxsleetua
+          name: Dwarvenstone
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            This marble-like stone is used by dwarves to create a ceremonial armour for the defenders of their cities, even though it is heavier and bulkier than metallic armours.
+
+
+            **Unit Value:** 500 ib
+
+
+            **Armour:** While wearing a heavy armour made with Dwarvenstone, you have a +1 to your armour class, but the strength requirement increases by 2 and your speed is reduced by 5 feet.
+          order: 7
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: gryunrpluv
+          name: Eternal Ice
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            This cold white-blue block of ice resists high temperatures, making it unable to melt in normal conditions.
+
+
+            **Unit Value:** 500 ib
+
+
+            **Weapons:** A weapon completely made out of Eternal Ice deals an additional 1d6 cold damage when you hit a creature. In addition, if immersed in water, it causes water to freeze around it at a rate of 1ft per minute, out to a total distance of 3ft.
+          order: 8
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: dmmtzfpckv
+          name: Hemotite
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Very Rare Material*
+
+
+            This tough and heavy purple-black stone softly glows with potential in the hands of a Meister of sufficient skill. It deposits are said to form only in places of great loss.
+
+
+            **Unit Value:** 750 ib
+
+
+            **Armour:** Armour entirely forged of Hemotite imposes disadvantage on Stealth checks, and gains a Strength Requirement of 15, or increases its requirement by +3 if it already has one.  
+
+            Additionally, the armour gains a +2 bonus to its AC and the armour is immune to non-magical damage, and resistant to physical damage.
+
+
+            **Object:** An object entirely forged of Hemotite has immunity to non-magical damage, resistance to physical damage, and gains a living-like quality, causing it to steadily repair itself at a rate of 1 hit point per minute.  
+
+            This restorative functionality can be stimulated when supplied with Vuurd Points.
+          order: 9
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: eguhmyhihs
+          name: Ignum
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            This black semi-translucent stone seems to hold something lava-like, glowing and flowing within it.
+
+
+            **Unit Value:** 500 ib
+
+
+            **Weapons:** A weapon completely made out of Ignum deals an extra 1d6 fire damage when you hit creature. Additionally, if you hit a flammable objects that isn't being worn or carried, it ignites.
+          order: 10
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: feycruvlfc
+          name: Imperial Gold
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Very Rare Material*
+
+
+            An extremely soft, gold-like material that repels magical creatures.
+
+
+            **Unit Value:** 750 ib
+
+
+            **Armour:** While wearing medium or heavy armour (Non Hide) made with Imperial Gold, you have a -3 penalty to your Armour Class, and you have resistance to damage from magical effects created by all magical creatures.
+
+
+            **Weapons:** A weapon completely made out of Imperial Gold receives a -3 penalty to attack and damage rolls, and ignores a magical creature's resistance and immunity to bludgeoning, piercing, and slashing damage.
+          order: 11
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: tswvxnwnmf
+          name: Infernal Steel
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Very Rare Material*
+
+
+            A blood red metal, found within one of the many planes which appears extremely resistant to heat, capturing flames within.
+
+
+            **Unit Value:** 750 ib
+
+
+            **Armour:** While wearing medium or heavy armour (non hide) made with Infernal Steel, you have a +1 bonus to your Armour Class, and you gain resistance to fire damage.
+
+
+            **Weapons:** A weapon completely made of Infernal Steel deals an extra 1d6 fire damage and gains a +1 bonus to attack and damage rolls.
+          order: 12
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: efgmtbejei
+          name: Mithril
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            This white-silver metal is lighter and more flexible than common steel.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** Metallic heavy armours made with mithril do not have a Strength requirement and do not impose disadvantage on Dexterity (Stealth) checks. 
+
+
+            **Weapons:** Weapons made with mithril lose their *heavy* property, and all other weapons gain the *light* feature.
+          order: 13
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: thrluzlyam
+          name: Obsidian
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Uncommon Material*
+
+
+            This black to deep purple glass-like stone is known to be very sharp.
+
+
+            **Unit Value:** 250 ib
+
+
+            **Armour:** While wearing a medium or heavy armour (non hide) made with obsidian, enemies that attempt to grapple you take 1d4 piecing damage.
+
+
+            **Weapons:** Any piercing or slashing damage made with an obsidian weapon deals and extra 1d4 damage.
+          order: 14
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: wxkgnmnivq
+          name: Orichalcum
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            This orange-bronze metal is used to absorb the essence of magic.
+
+
+            **Unit Value:** 500 ib
+
+
+            **Armour:** While wearing a medium or heavy armour (non hide) made with orichalcum, you have advantage against Strength and Constitution saving throws against spells and magical effects.
+
+
+            **Weapons:** A weapon completely made out of orichalcum deals an extra 1d6 fore damage.
+          order: 15
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: svjfxshfmn
+          name: Sathuan Silver
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Legendary Material*
+
+
+            A blue-white, soft metal that shines iridescent when worked into a composite with steel. It is said to be a secret stolen from the Divine Beings.
+
+
+            **Unit Value:** 1,000 ib
+
+
+            **Weapons:** When you reduce a creature to 0 hit points with a weapon completely made out of Sathuan Silver, the creature has disadvantage on any Death Saving Throws it makes. In addition, a creature killed this way cannot be resurrected or reanimated into an undead.
+          order: 16
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: vntlgplcmp
+          name: Seratite
+          shared_name: 
+          status: 0
+          blurb: >-
+            # $[objectname]
+
+
+            *Rare Material*
+
+
+            A clear, golden coloured crystal with streaks of blue running throughout the material.
+
+
+            **Unit Value:** 500ib
+
+
+            **Weapon:** A piercing weapon completely made out of Seratite may store a single spell of up to 3rd level within it. The weapon gains a bonus effect based on the spell stored. On an attack roll of 1, the Seratite weapon is destroyed.
+          order: 17
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: rlbskslmtb
+          name: Water
+          shared_name: 
+          status: 1
+          blurb: >-
+            # $[objectname]
+
+
+            *Common Mineral Part*
+
+
+            Serving as the basis for life across Taltagor, as well as a core starting reagent for alchemy, water is a vital component in all things.
+
+
+            <pre>
+
+
+            </pre>
+
+
+            ### Harvesting
+
+
+            **Harvest Duration.** 1 minute per unit
+
+
+            <br>
+
+
+            </br>
+
+
+            ### Alchemy Properties
+
+
+            **Unit Value:** 1cb
+
+
+            **Base.** Water can serve as a Base for Alchemy, producing items of up to Common quality. Water is not treated as an Incompatible Reagent when used as a Base while crafting Poultrices.
+          order: 18
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: 
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        statblock: 
+        subtype: document
+      statblock: 
+      subtype: document
+    - id: vuxxfycbyv
+      name: Alchemy Materials
+      shared_name: 
+      status: 0
+      blurb: >+
+        # $[objectname]
+
+      order: 2
+      notes: []
+      chapters: []
+      consumables: []
+      shared: true
+      access_roles: []
+      primaryid: 
+      prominence: 
+      alias: 
+      children:
+      - id: fitdndsygj
+        name: Bases
+        shared_name: 
+        status: 1
+        blurb: >+
+          # $[objectname]
+
+        order: 1
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children:
+        - id: ccnhvgvtns
+          name: Veilstalker Oil
+          shared_name: 
+          status: 1
+          blurb: >+
+            # $[objectname]
+
+          order: 1
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: mnuhdilfva
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        - id: evhkeyhwrk
+          name: Water
+          shared_name: 
+          status: 1
+          blurb: >+
+            # $[objectname]
+
+          order: 2
+          notes: []
+          chapters: []
+          consumables: []
+          shared: true
+          access_roles: []
+          primaryid: rlbskslmtb
+          prominence: 
+          alias: 
+          children: []
+          statblock: 
+          subtype: item
+        statblock: 
+        subtype: storyevent
+      - id: mhsuknbxlr
+        name: Catalysts
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 2
+        notes: []
+        chapters: []
+        consumables: []
+        shared: false
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: storyevent
+      - id: kzlvmvcqgv
+        name: Reagents
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 3
+        notes: []
+        chapters: []
+        consumables: []
+        shared: false
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: storyevent
+      statblock: 
+      subtype: storyevent
+    - id: sejxyqpjth
+      name: Crafting Materials
+      shared_name: 
+      status: 0
+      blurb: >+
+        # $[objectname]
+
+      order: 3
+      notes: []
+      chapters: []
+      consumables: []
+      shared: true
+      access_roles: []
+      primaryid: 
+      prominence: 
+      alias: 
+      children:
+      - id: ixgjebzocx
+        name: Adamantine
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 1
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: vxlwcmanyu
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: bkbcukjxas
+        name: Aerocrystal
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 2
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: ykghcsxqud
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: wxmurjkqvz
+        name: Aethersteel
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 3
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: vqesgipgim
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: onnjvqotax
+        name: Arthite
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 4
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: dnceijytjc
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: kwauqldwty
+        name: Asmoroch Wood
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 5
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: xdtglrejem
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: uuwvsehfdj
+        name: Beast Feathers
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 6
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: iqcaogcixa
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: xnlehgvhbq
+        name: Bone
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 7
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: xpkkimkwqr
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: papdficqfr
+        name: Bloodlinen
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 8
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: dbnwdvyyny
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: bhqionxzdm
+        name: Chitin
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 9
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: pmdnkqqngh
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: wacjtgtlnj
+        name: Cold Iron
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 10
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: xxtbnbctyg
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: akxejndykb
+        name: Coral
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 11
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: zglrycxlwe
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: cqbwvuwrlo
+        name: Darksteel
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 12
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: ehbsbkhbth
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: orsuvonkvr
+        name: Darkwood
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 13
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: jtwmuymknc
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: xktqfblrtn
+        name: Depthweave
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 14
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: nrfjibkbxj
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: csierbvzvj
+        name: Dwarvenstone
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 15
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: imxsleetua
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: extmfygipl
+        name: Ellond Hide
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 16
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: mvaohplxik
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: cyejtzhcjg
+        name: Eternal Ice
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 17
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: gryunrpluv
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: ulrambywht
+        name: Ethersilk
+        shared_name: 
+        status: 1
+        blurb: >+
+          # $[objectname]
+
+        order: 18
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: esmwnpnrrt
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: rdqcjpfelw
+        name: Hemotite
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 19
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: dmmtzfpckv
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: hlrxwrvkla
+        name: Ignum
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 20
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: eguhmyhihs
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: xaejsqaxqt
+        name: Imperial Gold
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 21
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: feycruvlfc
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: idphghwhxh
+        name: Infernal Leather
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 22
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: lyynaansyw
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: bmphjuovly
+        name: Infernal Steel
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 23
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: tswvxnwnmf
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: frapjveitc
+        name: Ironbark
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 24
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: adbtdewpqn
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: kvwwjojfdq
+        name: Leafweave
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 25
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: ksttyqlory
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: eucjucxesl
+        name: Mithril
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 26
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: efgmtbejei
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: qoqakeyhxz
+        name: Needlefiber
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 27
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: fsmntivjrd
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: nmhwqzrxgp
+        name: Nimbulwrought
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 28
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: etgnslmswz
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: hblysshfsx
+        name: Obsidian
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 29
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: thrluzlyam
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: waytpbywdn
+        name: Orichalcum
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 30
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: wxkgnmnivq
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: nkiqaqjhmk
+        name: Plague Wood
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 31
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: ucrlxjaapk
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: xjdlseyjmq
+        name: Scales
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 32
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: bccllprtbs
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: sgwywmcuwn
+        name: Shadowsilk
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 33
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: baufpqsfas
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: wllkcrrfzw
+        name: Shade Linen
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 34
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: ssrvqpfigk
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: iuzqcgraqn
+        name: Sathuan Silver
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 35
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: svjfxshfmn
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: ehjwlzcnjd
+        name: Seratite
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 36
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: vntlgplcmp
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: gbkrfkamkn
+        name: Solarsilk
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 37
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: rupvqherbp
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: bsffvyjlrs
+        name: Spirit Wood
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 38
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: oqwtcmfkgy
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: xyrpsmgwbq
+        name: Stellar Iron
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 39
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: blpfpbfwhg
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      - id: yvgllgxkjy
+        name: Wyndwood
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 40
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: uypupihqbb
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: item
+      statblock: 
+      subtype: storyevent
+    - id: qakehipnoa
+      name: Complications
+      shared_name: 
+      status: 0
+      blurb: >+
+        # $[objectname]
+
+      order: 4
+      notes: []
+      chapters: []
+      consumables: []
+      shared: true
+      access_roles: []
+      primaryid: 
+      prominence: 
+      alias: 
+      children:
+      - id: ewuhxbdrpi
+        name: Alchemical Complication
+        shared_name: 
+        status: 0
+        blurb: >+
+          # $[objectname]
+
+        order: 1
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: document
+      - id: jvbbwcjmss
+        name: Crafting Complication
+        shared_name: 
+        status: 0
+        blurb: >-
+          # $[objectname]
+
+
+          | &nbsp; d10 &nbsp; | Complication |
+
+          |:---:|:-------------|
+
+          | 1   | Roll once on the *Severe Complications* table below.
+
+          | 2   | 
+
+          | 3   | 
+
+          | 4   | You lose 100ib value of progress.
+
+          | 5   | 
+
+          | 5   |
+
+          | 6   |
+
+          | 7   | You lose 50ib value of progress.
+
+          | 8   |
+
+          | 9   |
+
+          | 10  |
+
+
+          <br>
+
+
+          </br>
+
+
+          ### Severe Complications
+
+          | &nbsp; d6 &nbsp; | Complication |
+
+          |:---:|:-------------|
+
+          | 1   | The item has been stolen!
+
+          | 2   | 
+
+          | 3   | You lose 100ib value of progress, and must provide an additional 1 Unit of Reagent before you may continue.
+
+          | 4   | 
+
+          | 5   |
+
+          | 6   | You must provide an additional 1 Unit of Reagent before you may continue
+        order: 2
+        notes: []
+        chapters: []
+        consumables: []
+        shared: true
+        access_roles: []
+        primaryid: 
+        prominence: 
+        alias: 
+        children: []
+        statblock: 
+        subtype: document
+      statblock: 
+      subtype: storyevent
+    statblock: 
+    subtype: document
