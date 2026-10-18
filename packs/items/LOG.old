@@ -1,3 +1,8 @@
-2025/08/06-09:24:07.967 cfbc Recovering log #176
-2025/08/06-09:24:07.974 cfbc Delete type=0 #176
-2025/08/06-09:24:07.974 cfbc Delete type=3 #174
+2026/10/16-16:48:00.268786 f444cbfff020 Recovering log #852
+2026/10/16-16:48:00.275532 f444cbfff020 Delete type=0 #852
+2026/10/16-16:48:00.275564 f444cbfff020 Delete type=3 #850
+2026/10/16-18:34:26.701290 f442ba3ff020 Level-0 table #857: started
+2026/10/16-18:34:26.701307 f442ba3ff020 Level-0 table #857: 0 bytes OK
+2026/10/16-18:34:26.703450 f442ba3ff020 Delete type=0 #855
+2026/10/16-18:34:26.705714 f442ba3ff020 Manual compaction at level-0 from '!folders!0vZUtJRkUVQ8ixbY' @ 72057594037927935 : 1 .. '!items.effects!tS9BAIiTIjdtnRRL.yAn1etVSJ7bsyr5w' @ 0 : 0; will stop at (end)
+2026/10/16-18:34:26.710703 f442ba3ff020 Manual compaction at level-1 from '!folders!0vZUtJRkUVQ8ixbY' @ 72057594037927935 : 1 .. '!items.effects!tS9BAIiTIjdtnRRL.yAn1etVSJ7bsyr5w' @ 0 : 0; will stop at (end)

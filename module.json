@@ -26,6 +26,7 @@
             "classes",
             "subclasses",
             "class-features",
+			"development-features",
             "backgrounds",
             "races",
             "race-advancements"
@@ -38,18 +39,23 @@
           "color": "#941919",
           "packs": [
             "items",
+			"materials",
+			"reagents",
+			"rewards",
             "spells",
             "tradegoods"
           ],
           "folders": []
         },
         {
-          "name": "Monsters",
+          "name": "Actors",
           "sorting": "m",
           "color": "#7d160c",
           "packs": [
             "monsters",
-            "monsterfeatures"
+            "monsterfeatures",
+			"characters",
+			"archivedpcs"
           ],
           "folders": []
         },
@@ -60,7 +66,8 @@
           "packs": [
             "rules",
             "tables",
-			"carddecks"
+			"carddecks",
+			"macros"
           ],
           "folders": []
         }
@@ -109,6 +116,25 @@
       "name": "class-features",
       "label": "Class & Subclass Features",
       "path": "packs/class-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "types": [
+            "feat",
+            "weapon"
+          ]
+        }
+      }
+    },
+	{
+      "name": "development-features",
+      "label": "Development Class Features",
+      "path": "packs/development-features",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -207,10 +233,54 @@
         "ASSISTANT": "OWNER"
       }
     },
+	{
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
       "name": "items",
       "label": "Items",
       "path": "packs/items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "materials",
+      "label": "Materials",
+      "path": "packs/materials",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "reagents",
+      "label": "Reagents",
+      "path": "packs/reagents",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "rewards",
+      "label": "Rewards",
+      "path": "packs/reward",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -239,11 +309,34 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+	{
+      "name": "characters",
+      "label": "Characters",
+      "path": "packs/characters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+{
+      "name": "archivedpcs",
+      "label": "Archived PCs",
+      "path": "packs/archivedpcs",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "scripts": [
+	"scripts/luck-ability.js",
     "scripts/taltagor-languages.js",
-    "scripts/luck-ability.js",
+    "scripts/taltagor-conditions.js",
     "scripts/taltagor-weapons.js",
     "scripts/taltagor-rests.js",
     "scripts/taltagor-unarmoured-ac.js",

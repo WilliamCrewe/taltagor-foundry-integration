@@ -1,38 +1,45 @@
 console.log("Taltagor Currency | Setup")
 // During setup, replace standard D&D currency details with taltagor specific details.
-Hooks.once("setup", () => {
+Hooks.once("init", () => {
 	CONFIG.DND5E.currencies.cp = {
 		label: "Copper",
-		abbreviation: "cc",
+		abbreviation: "cb",
 		conversion: 100,
-		icon: "systems/dnd5e/icons/currency/copper.webp"
-	},
+		icon: "modules/taltagor-foundry-integration/assets/currency/copper.webp"
+	}
 	
 	CONFIG.DND5E.currencies.sp = {
 		label: "Bronze",
-		abbreviation: "bc",
+		abbreviation: "bb",
 		conversion: 10,
-		icon: "systems/dnd5e/icons/currency/copper.webp"
-	},
-	
-	CONFIG.DND5E.currencies.ep = {
-		label: "Iron",
-		abbreviation: "ic",
-		conversion: 1,
-		icon: "systems/dnd5e/icons/currency/electrum.webp"
-	},
+		icon: "modules/taltagor-foundry-integration/assets/currency/bronze.webp"
+	}
 	
 	CONFIG.DND5E.currencies.gp = {
+		label: "Iron",
+		abbreviation: "ib",
+		conversion: 1,
+		icon: "modules/taltagor-foundry-integration/assets/currency/iron.webp"
+	}
+	
+	CONFIG.DND5E.currencies.ep = {
 		label: "Silver",
-		abbreviation: "sc",
+		abbreviation: "sb",
 		conversion: 0.1,
-		icon: "systems/dnd5e/icons/currency/platinum.webp"
-	},
+		icon: "modules/taltagor-foundry-integration/assets/currency/silver.webp"
+	}
 	
 	CONFIG.DND5E.currencies.pp = {
 		label: "Gold",
-		abbreviation: "gc",
+		abbreviation: "gb",
 		conversion: 0.01,
-		icon: "systems/dnd5e/icons/currency/gold.webp"
+		icon: "modules/taltagor-foundry-integration/assets/currency/gold.webp"
 	}
+	
+	const currencies = Object.entries(CONFIG.DND5E.currencies).sort((a, b) => {
+        return a[1].conversion - b[1].conversion;
+    });
+    CONFIG.DND5E.currencies = Object.fromEntries(currencies);
+	
 });
+
